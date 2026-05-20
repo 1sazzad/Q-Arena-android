@@ -1,0 +1,52 @@
+# IntelliJ / Android Studio
+*.iml
+.idea/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local config
+local.properties
+
+# Native build
+.externalNativeBuild/
+.cxx/
+
+# Captures
+captures/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Kotlin
+.kotlin/
+
+# Logs
+*.log
+
+# APK / Bundle
+*.apk
+*.aab
+
+# Keystore
+*.jks
+*.keystore
+
+# Env
+.env
+.env.*
+
+# Temporary
+tmp/
+temp/
